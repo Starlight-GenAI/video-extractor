@@ -1,0 +1,6 @@
+/env
+text.json
+config.ini
+config.example.ini
+.gitignore
+**/__pycache__
